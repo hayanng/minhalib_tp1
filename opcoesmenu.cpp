@@ -611,7 +611,7 @@ void mensagem_final_despedida()
 {
     string mensagemfinal1 = "Programa sendo finalizado...";
     string mensagemfinal2 = "Obrigado pelo uso!";
-    string mensagemfinal_nome_trabalho = "\t---- TRABALHO \x22MINHA LIB\x22 ----";
+    string mensagemfinal_nome_trabalho = "\t  ---- TRABALHO \x22MINHA LIB\x22 ----";
     string mensagemfinal_nome_faculdade = "PONTIFICIA UNIVERSIDADE CATOLICA DE GOIAS";
     string mensagemfinal_nome_disciplina = "DISCIPLINA: TECNICAS DE PROGRAMACAO I / CMP-1048";
     string mensagemfinal_nome_professor = "PROFESSOR: MAX";
