@@ -22,7 +22,9 @@ void menu_opcoes()
     cout << "\n  >> Escolha a funcao: ";
 }
 
-{   cout << " ____________________________________________________" << endl;
+void mensagem_inicial()
+{   
+    cout << " ____________________________________________________" << endl;
     cout << "|\t        /     \\     /      \\                 |" << endl;
     cout << "|\t       / \\    )\\___/(     / \\                |" << endl;
     cout << "|\t      /   \\  (_\\   /_)   /   \\               |" << endl;
