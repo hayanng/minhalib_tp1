@@ -14,3 +14,5 @@ No final da resolução das listas de exercícios foi feito esse trabalho juntan
 5- Ao pressionar 0 o programa voltará ao quadro de opções
 
 6- Ao pressionar 0 novamente irá sair do programa apresentando uma mensagem de despedida
+
+* By @hayanngs
